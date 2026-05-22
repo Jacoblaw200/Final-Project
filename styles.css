@@ -1,8 +1,5 @@
 body{
     background-color: rgb(203, 255, 203);
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 
@@ -20,7 +17,6 @@ ul{
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
-    background: rgb(240, 85, 85);
+    align-items: center;
+
 }
