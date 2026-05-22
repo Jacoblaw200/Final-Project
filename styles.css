@@ -1,5 +1,5 @@
-html{
-    background-color: rgb(212, 243, 191);
+body{
+    background-color: rgb(203, 255, 203);
 }
 
 
@@ -11,4 +11,12 @@ img{
 ul{
     text-align: center;
     justify-content: center;
+}
+
+.container-1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
 }
